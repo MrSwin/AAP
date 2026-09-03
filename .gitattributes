@@ -1,2 +1,5 @@
 AAP.zip filter=lfs diff=lfs merge=lfs -text
 DDURSO_Local_Run_v0_10_candidate_FULL.zip filter=lfs diff=lfs merge=lfs -text
+DDURSO_Local_Run_v0_10_candidate_FULL/DDURSO_Local_Run_v0_10_candidate/outputs.zip filter=lfs diff=lfs merge=lfs -text
+DDURSO_UAV_Paper_v0_12/DDURSO_UAV_Paper_v0_12.zip filter=lfs diff=lfs merge=lfs -text
+DDURSO_UAV_Paper_v0_12_2/DDURSO_UAV_Paper_v0_12_2.zip filter=lfs diff=lfs merge=lfs -text
